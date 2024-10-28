@@ -25,12 +25,12 @@ Para rodar os projetos localmente, siga os passos abaixo:
 
 ### Clone o repositório:
 ```
-git clone https://github.com/seuusuario/Angular-Class.git
+git clone https://github.com/Zarkio42/Angular-Class.git
 ```
 
 ### Navegue até a pasta do projeto desejado:
 ```
-cd Angular-Class/Projeto-1
+cd Angular-Class/pasta
 ```
 
 ### Instale as dependências:
